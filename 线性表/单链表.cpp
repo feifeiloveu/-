@@ -83,8 +83,8 @@ void NO23(LinkList L,int n)
 			p->next = q->next;
 			free(q);
 		}//注意此处，没删除的话，p要后进；删除了就不用
-		
 	}
+	free(a);
 }
 
 
@@ -92,16 +92,16 @@ void main() {
 	LNode *L, *s,*r; int x;
 	L = CreatList(L); 
 
-	
+	NO23(L, 30);
 
-	/*s = L->next;
+	s = L->next;
 	if (s == NULL)
 		cout << "链表为空" << endl;
 	else 
 		while (s != NULL) {
 		cout << s->data << endl;
 		s = s->next;
-		}*/
+		}
 
 
 	//构造22题的单词
