@@ -115,8 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="共享栈.cpp" />
+    <ClCompile Include="循环队列.cpp" />
     <ClCompile Include="栈.cpp" />
-    <ClCompile Include="链式栈.cpp" />
+    <ClCompile Include="64页第4题.cpp" />
+    <ClCompile Include="顺序存储队列.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
