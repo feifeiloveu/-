@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树", "树\树.vcxproj", "{103A4F2B-8548-4525-A046-6281ED8EDCAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Debug|x64.ActiveCfg = Debug|x64
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Debug|x64.Build.0 = Debug|x64
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Debug|x86.Build.0 = Debug|Win32
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Release|x64.ActiveCfg = Release|x64
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Release|x64.Build.0 = Release|x64
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Release|x86.ActiveCfg = Release|Win32
+		{103A4F2B-8548-4525-A046-6281ED8EDCAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE5507C8-5B24-4C51-89C2-573B31CC984A}
+	EndGlobalSection
+EndGlobal
